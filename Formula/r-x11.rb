@@ -57,6 +57,7 @@ class RX11 < Formula
       "--with-x",
       "--with-aqua",
       "--with-openblas",
+      "--with-lapack",
       "--enable-R-shlib",
       "SED=/usr/bin/sed", # don't remember Homebrew's sed shim
     ]
